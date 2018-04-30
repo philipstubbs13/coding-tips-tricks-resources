@@ -23,3 +23,5 @@
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
 * https://stackoverflow.com/questions/7642442/what-does-function-do
 * https://stackoverflow.com/questions/5311334/what-is-the-purpose-of-node-js-module-exports-and-how-do-you-use-it
+* Christopher Biessener (Friday, April 27th)
+	* I do not recommend upgrading your `node` installation to 10.0.0 just yet, stick with 9.5.0 for now.  Node 10 works, but it breaks some of the support tools like ESLint.  Wait for the tools to catch up.  (Downgrading Node was a royal pita, took way too much time to figure out)

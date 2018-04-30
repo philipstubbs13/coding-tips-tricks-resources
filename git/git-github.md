@@ -1,12 +1,13 @@
-## Git
-* Excellent overview of git: http://www.tricksofthetrades.net/2015/08/18/notes-git-version-control/
-* Diffing between working tree and other commits: http://365git.tumblr.com/post/3464927214/getting-a-diff-between-the-working-tree-and-other
-* Gitflow: http://nvie.com/posts/a-successful-git-branching-model/
-* Github Desktop: https://desktop.github.com/
-* http://ohshitgit.com/
+# Git
+* Excellent overview of git: <http://www.tricksofthetrades.net/2015/08/18/notes-git-version-control/>
+* Diffing between working tree and other commits: <http://365git.tumblr.com/post/3464927214/getting-a-diff-between-the-working-tree-and-other>
+* Gitflow: <http://nvie.com/posts/a-successful-git-branching-model/>
+* Github Desktop: <https://desktop.github.com/>
+* <http://ohshitgit.com/>
+* Git stash: <https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a>
 
 ## GitHub Pages
-* https://pages.github.com/
+* <https://pages.github.com/>
 
 ## Other links
 * Git Credential Manager: https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/tag/v1.14.0
