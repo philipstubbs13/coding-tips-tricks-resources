@@ -35,4 +35,9 @@
 * Student Do: Binary Search
   * Have students research the concept of “binary search”.
   * See if they can create their own method for creating a binary search based on their reading. They may find binary searches in other programming languages—or simply abstractly, allow them to try and create a binary search on their own.
+* <https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science>
+* <https://www.quora.com/Is-it-possible-to-patent-an-algorithm>
+* <http://www.codeceptor.com/2017/07/18/karl-pearsons-algorithm-in-python/>
+* <https://en.wikipedia.org/wiki/Prim%27s_algorithm>
+* <https://en.wikipedia.org/wiki/Dynamic_time_warping>
 
