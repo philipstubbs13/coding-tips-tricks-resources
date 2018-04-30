@@ -25,3 +25,14 @@
 * If you run into memory issues when searching on big datasets, run the following:
 
 `node --max-old-space-size=4096 linearSearch.js`
+* Sorting algorithms visualizer: <https://www.toptal.com/developers/sorting-algorithms/>
+* Quick sort with hungarian folk dance: <https://www.youtube.com/watch?v=ywWBy6J5gz8>
+* Insertion sort is slow: <http://delab.csd.auth.gr/courses/c_ds/insertion_bubblesort_analysis.pdf>
+* Chrome’s V8 engine uses quick-sort for general arrays, and Insertion sort for arrays with fewer than 10 elements: https://github.com/v8/v8/blob/master/src/js/array.js
+* Visual Go: <https://visualgo.net/en/sorting>
+* Visualizing linear and binary search: <https://www.cs.usfca.edu/~galles/visualization/Search.html>
+* A beginner's guide to Big O notation: <https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/>
+* Student Do: Binary Search
+  * Have students research the concept of “binary search”.
+  * See if they can create their own method for creating a binary search based on their reading. They may find binary searches in other programming languages—or simply abstractly, allow them to try and create a binary search on their own.
+

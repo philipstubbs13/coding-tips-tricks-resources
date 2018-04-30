@@ -43,3 +43,4 @@
 * Pythoon installation instructions: <https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/11-06-2017-St-Paul-Class-Repository-FSF/tree/master/02-lesson-plans/part-time/21-Week/Django/01-Day/InstallationInstructions>
 * <https://www.shuup.com/blog/25-of-the-most-popular-python-and-django-websites/>
 * <https://hackernoon.com/advantages-and-disadvantages-of-django-499b1e20a2c5>
+* <http://www.django-rest-framework.org/>
