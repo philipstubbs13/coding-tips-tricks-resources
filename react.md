@@ -112,3 +112,5 @@ this.setState({
 * <https://bloomer.js.org>
   * Bloomer — A set of React Stateless Components
 * <https://reactstrap.github.io/>
+* <https://medium.freecodecamp.org/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c>
+* Material UI icons: <https://www.npmjs.com/package/@material-ui/icons>
