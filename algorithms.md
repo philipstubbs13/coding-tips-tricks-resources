@@ -40,4 +40,5 @@
 * <http://www.codeceptor.com/2017/07/18/karl-pearsons-algorithm-in-python/>
 * <https://en.wikipedia.org/wiki/Prim%27s_algorithm>
 * <https://en.wikipedia.org/wiki/Dynamic_time_warping>
+* Sorting visualizer: <https://www.toptal.com/developers/sorting-algorithms/>
 

@@ -1,5 +1,6 @@
 # Python
 
+* <https://www.humblebundle.com/software/python-dev-kit-bundle?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3>
 * Repl
 * Ctr + D to get out of Repl
 * Python is like a Node.js
