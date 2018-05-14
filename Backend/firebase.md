@@ -7,3 +7,10 @@
 * Firebase Timestamp: firebase.database.ServerValue.TIMESTAMP
 * Child added: https://firebase.google.com/docs/database/admin/retrieve-data
 * Firebase Web Login - Firebase Web App Tutorial: https://www.youtube.com/watch?v=iKlWaUszxB4
+* Firebase functions
+  * https://github.com/firebase/functions-samples/tree/master/quickstarts/uppercase
+  * Create a webhook in Firebase functions
+  * Create a PWA and host it with Firebase
+  * https://github.com/firebase/functions-samples/tree/master/assistant-say-number
+  * https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs
+  * https://firebase.google.com/docs/functions/video-series
