@@ -25,6 +25,7 @@
 	* Try Git: https://try.github.io/levels/1/challenges/1
 * Glitch
 * https://stackoverflow.com/questions/28364023/gits-error-on-push-empty-reply-from-server
+* <https://www.robinwieruch.de/git-essential-commands/>
 
 ## Steps to upload to GitHub
 * git clone https://github.com/philipstubbs13/quickdemoapp.git
