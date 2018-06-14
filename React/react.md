@@ -93,6 +93,7 @@
   * <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Computed_property_names>
 * React food-lookup-demo: <https://github.com/fullstackreact/food-lookup-demo>
 * <https://stackoverflow.com/questions/44831916/how-to-delete-a-todo-item-onclick-in-react>
+* React tutorial: <https://udilia.com/courses/learn-react-by-building-a-web-app>
 
 <pre>
 this.setState({
