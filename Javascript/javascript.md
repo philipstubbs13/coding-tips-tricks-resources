@@ -7,6 +7,7 @@
 * Google Javascript Style Guide: https://google.github.io/styleguide/jsguide.html
 
 ## Other resources
+* <https://the-eye.eu/public/Books/IT%20Various/secrets_of_the_javascript_ninja.pdf>
 * https://stackoverflow.com/questions/7642442/what-does-function-do
 * https://googlechrome.github.io/samples/arrows-es6/
 * http://coffeescript.org/#top
