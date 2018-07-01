@@ -20,6 +20,7 @@
 * CSS crash course video: Learn CSS - Crash Course #1
 	* https://www.youtube.com/watch?v=dAUncsVxdvo
 * https://applikeysolutions.com/blog/top-5-trends-in-front-end-development-for-2018
+* <https://www.awwwards.com/>
 
 ## Code snippets
 * Sticky footer: https://css-tricks.com/snippets/css/sticky-footer/
