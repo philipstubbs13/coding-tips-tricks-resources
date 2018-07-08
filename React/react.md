@@ -1,5 +1,7 @@
 # React
 
+## What is React
+
 * An open-source Javascript library developed at Facebook specifically for the task of developing user interfaces.
 * Developed for the purpose of building large apps with rapidly changing data.
 * Relies on a component-based architecture. Elements of the UI are broken into self-contained components.
@@ -36,9 +38,6 @@
   * Should be considered immutable (something you can't change).
   * Can be used to change the default behavior of a component.
   * Props always return as an object.
-* Linting
-  * Airbnb javascript style guide: <https://github.com/airbnb/javascript>
-  * Google javascript style guide: <https://google.github.io/styleguide/jsguide.html>
 * Stateful components
   * Created with ES6 Classes (which get rendered out as Javascript constructors)
   * State is a property attached to a class component.
@@ -62,29 +61,12 @@
 * <https://reactjs.org/docs/lifting-state-up.html>
 * Components and props: <https://facebook.github.io/react/docs/components-and-props.html>
 * Lists and keys: <https://facebook.github.io/react/docs/lists-and-keys.html>
-* Deploy React app to heroku
-  * <https://blog.heroku.com/deploying-react-with-zero-configuration>
-  * <https://github.com/mars/create-react-app-buildpack>
-  * <https://github.com/mars/create-react-app-buildpack/issues/55>
-  * <https://github.com/mars/heroku-cra-node>
-  * <https://github.com/mars/create-react-app-buildpack/issues/75>
-  * <https://javascriptkicks.com/r/9348?url=https://daveceddia.com/deploy-react-express-app-heroku/>
 * React boilerplate: <https://github.com/search?q=react+boilerplate>
 * <https://github.com/petehunt/react-howto>
 * React router: <https://reacttraining.com/react-router/>
 * React Lifecycle Methods: <https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1>
 * <https://www.reactenlightenment.com/>
 * Conditional (ternary) operator: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator>
-* Set up airbnb eslint
-  * Run this command in your application folder at the top level.
-  <pre>yarn add eslint --dev</pre>
-  <pre>./node_modules/.bin/eslint --init</pre>
-  * Use a popular style guide.
-  * Airbnb
-  * use React: Yes
-  * Format: JSON
-  * Run from the command line:
-    <pre>yarn run eslint</pre>
 * An Element is an object which represents a DOM node.
 * A (React) Component is a function which returns a React Element.
 * <https://tylermcginnis.com/react-elements-vs-react-components/>
@@ -101,6 +83,15 @@ this.setState({
     });
 </pre>
 
+## Deploying a React app to Heroku
+
+* <https://blog.heroku.com/deploying-react-with-zero-configuration>
+* <https://github.com/mars/create-react-app-buildpack>
+* <https://github.com/mars/create-react-app-buildpack/issues/55>
+* <https://github.com/mars/heroku-cra-node>
+* <https://github.com/mars/create-react-app-buildpack/issues/75>
+* <https://javascriptkicks.com/r/9348?url=https://daveceddia.com/deploy-react-express-app-heroku/>
+
 ## React UI component frameworks
 
 * <https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42>
@@ -115,3 +106,11 @@ this.setState({
 * <https://reactstrap.github.io/>
 * <https://medium.freecodecamp.org/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c>
 * Material UI icons: <https://www.npmjs.com/package/@material-ui/icons>
+
+## Interesting articles
+
+* Learn React in 8 minutes: <https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003>
+
+## React tutorials
+
+* Building a weather app: <https://medium.com/pixels-in-progress/a-simple-weather-app-with-react-16a49e89b539>
