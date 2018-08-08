@@ -106,6 +106,7 @@ this.setState({
 * <https://reactstrap.github.io/>
 * <https://medium.freecodecamp.org/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c>
 * Material UI icons: <https://www.npmjs.com/package/@material-ui/icons>
+* <https://www.reactcomponent.io/>
 
 ## Interesting articles
 
