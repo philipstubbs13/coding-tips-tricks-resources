@@ -35,3 +35,11 @@
     * Android SDK (6.0 Marshmallow)
     * Android AVD
     * Android SDK & AVD Setup for React Native: <https://www.youtube.com/watch?v=KRLLjlpy0r4>
+
+## Resources
+
+* <https://js.coach/?collection=React+Native>
+* <http://makeitopen.com/>
+* <https://github.com/ReactNativeNews/React-Native-Apps>
+* <http://www.awesome-react-native.com/>
+* IDE for React Native: <https://nuclide.io/>
