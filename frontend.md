@@ -1,3 +1,6 @@
-## Front end web development
+# Front end web development
 
-* https://codepen.io/tyrellrummage/pen/ZJPXgy
+* Little UI details 
+  * <https://codepen.io/tyrellrummage/pen/ZJPXgy>
+* A recap of front end development 2018
+  * <https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d>
