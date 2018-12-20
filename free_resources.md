@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=cEDXPkMiqro
 * freecodecamp
 * learn javascript - full course for beginners
 * javascript fundamentals for absolute beginners 2018 - Bob Tabor
-* * Dylan Israel
+* Dylan Israel
 * Programming with Mosh
 * Derek Banas
 * Max Sandelin
