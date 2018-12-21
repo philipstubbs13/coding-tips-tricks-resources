@@ -168,3 +168,106 @@
 * Work well with teams and familiar with Git.
 * Connect to backend APIs and work with data.
 * You should be able to get a front-end job or work for yourself and do pretty well.
+
+## Server Side Language
+
+* To be a full stack or software engineer, you will need to learn a server-side language/technology.
+* Node.js
+* Python
+* PHP
+* C#
+* Go
+* Things to Learn
+  * Fundamental Sytax
+  * Structure & Workflow
+  * Package Management
+  * HTTP / Routing
+* Suggested YouTube Videos
+  * Node.js for beginners
+  * Python Fundamentals
+  * PHP Front to Back
+  * C# Project in 60 seconds
+  * Go Crash Course
+* Suggested Udemy Courses
+  * Node.js Dev to Deployment
+  * MVC PHP OOP
+  * Python Django Dev to Deployment
+
+## Server Side Framework
+
+* Node.js: Express, Koa, Adonis
+* Python: Django, Flask
+* PHP: Laravel, Symfony
+* C#: ASP.NET
+* Suggested YouTube Videos
+  * Express Crash Course
+  * Koa Crash Course
+  * Adonis Series
+  * Django Crash Course
+  * Flask Series
+  * Laravel Series
+  * Symfony Series
+  * C# .NET App in 60 minutes
+* Suggested Udemy Courses
+  * Node.js Dev to Deployment
+  * Python Django Dev to Deployment
+
+## Database
+
+* Relational Database: MySQL, PostgreSQL, MS SQL
+* NoSQL: MongoDB, Couchbase
+* Cloud: Firebase, AWS, Azure DocumentDB
+* Lightweight: SQLite, NeDB, Redis
+* Suggested YouTube Videos
+  * SQL Crash Course
+  * MongoDB in 30 Minutes
+  * Redis Crash Course
+
+## Server Rendered Pages
+
+* Frameworks like React, Vue & Angular can alos be rendered on the server which can actually make things relatively easier.
+* Next.js - React
+* Nuxt.js - Vue
+* Angular Universal - Angular
+* Suggested YouTube Videos
+  * Next.js Crash Course
+
+## CMS
+
+* Content management systems allow for quick development and give your clients the ability to update their content. May not be a bad idea to pick one up. Great for freelancers.
+* PHP Based: Wordpress, Drupal
+* JS Based: Ghost, Keystone
+* Python Based: Mezzazine
+* .NET: Piranha, Orchard CMS
+* Suggested YouTube videos
+  * Express Crash Course
+  * Koa Crash Course
+  * Adonis Series
+  * Django Crash Course
+  * Flask Series
+  * Laravel Series
+  * Symfony Series
+  * C# .NET App in 60 minutes
+* Suggested Udemy Coures
+  * Node.js Dev to Deployment
+  * Python Django Dev to Deployment
+
+## DevOps, Deployment & More
+
+* Deployment: Linux, SSH, Git, Server Software (Nginx, Apache)
+* Platforms: Digital Ocean, AWS, Heroku, Azure
+* Virtualization: Docker, Vagrant
+* Testing: Unit, Integration, Functional, System
+* Suggested YouTube Videos
+  * Getting Started with Docker
+  * Vagrant Crash Course
+  * Jest Testing
+  * Deploy Node Apps
+
+## Full Stack Badass
+
+* Setup full stack dev environments & workflows
+* Build back-end APIs & micro-services
+* Work with databases
+* Construct full-stack apps (Front end framework and server)
+* Deploy to the cloud (SSH, Git, Servers, etc)
