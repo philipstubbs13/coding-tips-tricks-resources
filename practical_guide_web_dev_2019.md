@@ -271,3 +271,89 @@
 * Work with databases
 * Construct full-stack apps (Front end framework and server)
 * Deploy to the cloud (SSH, Git, Servers, etc)
+
+## Mobile Development
+
+* React Native - Build Native apps with React
+* NativeScript - Angular, TypeScript, JavaScript
+* Ionic - Hybrid apps with HTML/CSS/JS
+* Flutter - Mobile SDK for Android & iOS (Uses Dart)
+* Xamarin - Mobile apps with C#
+* Suggested youtube videos:
+  * React Native Crash Course
+  * Ionic Series
+
+## Desktop Apps with Electron
+
+* Electron is used to build powerful cross-platform desktop applications using JavaScript.
+* Uses Chromium & Node.js
+* Compatible with Windows, Mac & Linux
+* Crash reporting, debugging & profiling
+* Suggested youtube videos
+  * Intro to Electron
+  * Build An Electron App
+
+## GraphQL & Apollo
+
+* GraphQL is a revolutionary new way to think about APIs. Query language that is much less rigin than standard REST.
+* Ask for only what you want.
+* Front and back end can collaborate more smoothly.
+* Writing queries are very easy and similar to JSON.
+* Apollo is a client to make requests to a GraphQL server.
+* Used with the Gatsby static site generator.
+* Suggested youtube videos
+  * Build a GraphQL Server
+  * App With React, Apollo, and GraphQL
+
+## TypeScript
+
+* TypeScript is a superset of JS with additional features including static typing.
+* Types for variables, functions, etc.
+* Classes
+* Other ES6-like features
+* Used in Angular but can be implemented in React and Vue.
+* Suggested youtube videos:
+  * TypeScript Crash Course
+
+## Serverless Architecture
+
+* Eliminate the need for creating and managing your own server.
+* Use 3rd party services to execute Serverless Functions (FaaS)
+* Examples are AWS, Netlify, and Firebase.
+* Popular with Gatsby static sites.
+* Serverless framework - Toolkit for building serverless apps.
+* Suggested youtube videos
+  * Lambda Functions with Netlify
+
+## AI & Machine Learing
+
+* Machine learning can allow web apps to adapt over time.
+* AI has a long way to go but I suspect we will see more of it in web dev.
+* Used heavily in Python but we also have JS libraries like Tensorflow.js and Brain.js
+* Suggested YouTube videos
+  * Mine Learing in JavaScript With Brain.js
+
+## Blockchain Technology
+
+* Companies are using Blockchain for digital transactions i in order to make them more efficient and secure.
+* Solidity - Language for implementing contracts.
+* Mist - Used for storing Ethereum, sending transactions and contracts.
+* Coinbase API - Blockchain devs can easily build apps and integrate Bitcoin.
+
+## PWA
+
+* Progressive Web Apps are regular web apps but give the user a native app experience in terms of layout and functionality.
+* Responsive to fit any form factor.
+* Service workers for offline availability.
+* App-like interactions
+* HTTPS
+* Reliable, Fast & Engaging
+* Suggested YouTube videos
+  * Intro To Service Workers
+
+## Web Assembly
+
+* Assembly-like binary format for code that can be executed by web browsers. Can be generated from higher level languages like C/C++ & Rust.
+* Faster than JavaScript
+* Secure - Enforces same origin & security policies in the browser.
+* Open & debuggable.
