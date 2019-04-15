@@ -111,7 +111,14 @@ this.setState({
 ## Interesting articles
 
 * Learn React in 8 minutes: <https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003>
+* <https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a>
+* <https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8>
 
 ## React tutorials
 
 * Building a weather app: <https://medium.com/pixels-in-progress/a-simple-weather-app-with-react-16a49e89b539>
+
+## Testing
+
+* <https://itnext.io/testing-your-react-apps-like-a-boss-with-jest-d5a7105a52ea>
+* <https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90>
