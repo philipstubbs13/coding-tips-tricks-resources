@@ -122,3 +122,7 @@ this.setState({
 
 * <https://itnext.io/testing-your-react-apps-like-a-boss-with-jest-d5a7105a52ea>
 * <https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90>
+
+## React.memo
+
+* <https://www.youtube.com/watch?v=J9u_k1dxyJk>
