@@ -19,3 +19,8 @@
 
 * <https://www.youtube.com/watch?v=YQLn7ycfzEo&list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-&index=4>
 * <https://www.leighhalliday.com/introduction-react-testing-library>
+
+## React Testing Library - Events and Async
+
+* <https://www.youtube.com/watch?v=SSyy2sHpmIA&list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-&index=5>
+* <https://www.leighhalliday.com/introduction-react-testing-library>
