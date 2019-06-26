@@ -26,6 +26,8 @@
 * Component unit testing (and mocking) with react-testing-library: <https://www.youtube.com/watch?v=XDkSaCgR8g4&t=82s>
 * <https://blog.echobind.com/writing-functional-tests-with-react-testing-library-part-1-470870ee1a6>
 * <https://react-testing-examples.com/>
+* Test Driven Development with React Testing Library: <https://www.youtube.com/watch?v=kCR3JAR7CHE&t=33s>
+  * <https://codesandbox.io/s/94n7j4yy24>
 
 ## React Testing Library - Events and Async
 
