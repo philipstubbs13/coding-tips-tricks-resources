@@ -88,3 +88,7 @@
     * WebGL and Canvas 2D
   * Web workers are relatively heavy weight, and are not intended to be used in large numbers.
   * web workers are amazing but hard to manage.
+  * Race condition
+  * Code: <https://github.com/JoeKarlsson/live-code/tree/master/web-workers>
+  * Web Workers: <http://techslides.com/html5-web-workers-for-ajax-requests>
+  * <https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Functions_and_classes_available_to_workers>
