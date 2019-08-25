@@ -1,6 +1,8 @@
 # Web Workers
 
 * <http://frenetic.be/tricks/simple-timer.php>
+* <https://github.com/zeit/next-plugins/tree/master/packages/next-workers>
+* <https://stackoverflow.com/questions/9136261/how-to-make-a-setinterval-stop-after-some-time-or-after-a-number-of-actions>
 * JS and Parallel Processing | Minnebar
   * <http://youtube.com/watch?v=jB5CtGIADJ0>
   * Web workers cannot directly access the window object or the DOM.
