@@ -33,3 +33,35 @@
 
 * <https://www.youtube.com/watch?v=SSyy2sHpmIA&list=PL8fumNHsC-3NaPNxh2bous6bBDWwJ4r1-&index=5>
 * <https://www.leighhalliday.com/introduction-react-testing-library>
+
+## Writing Better Tests With React Testing Library - Time to React - August 2019
+
+* <https://www.youtube.com/watch?v=hFm0enk-qfM&t=16s>
+* Gives us ways to query the dom the same way users would.
+* Tests gives us confidence that our product (Still) works.
+* <https://kentcdodds.com/blog/testing-implementation-details>
+* Testing implementation details is bad. Implementation details are things which users of your code will not typically use, see, or even know about.
+* Who is the user?
+  * The end user in a browser
+    * Views and interacts with the component.
+  * The developer
+    * Renders the component with props
+* Tests should include:
+  * Rendering the component with props (developer user)
+  * querying and interacting with the rendered result (end user)
+* Tests should not include:
+  * implementation details
+    * State
+    * Component names
+    * CSS classes/selectors
+    * Anything that the users don't see!
+* getByText will throw an error if it doesn't find exactly one match.
+* If it relates to rendering components, then it should deal with DOM  nodes rather than component instances, and it should not encourage dealing with component instances.
+* It should be generally useful for testing the application components in the way the user would use it. We are making some trade offs here because we're using a computer and often a simulated browser environment, but in general, utilities should encourage tests that use the component the way they're intended to be used.
+* Utility implementation and APIs should be simple and flexible.
+* react-testing-libary is:
+  * A library for querying a DOM in your tests.
+  * A replacement for enzyme.
+* It helps us:
+  * Have confidence in our code.
+  * Reduce the cost of writing and maintaining tests.
