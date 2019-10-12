@@ -65,3 +65,10 @@
 * It helps us:
   * Have confidence in our code.
   * Reduce the cost of writing and maintaining tests.
+
+## Introducing React Testing Library
+
+* <https://kentcdodds.com/blog/introducing-the-react-testing-library>
+* query* functions will return the element or null if it cannot be found
+* get* functions will return the element or throw an error if it cannot be found
+* the queries can accept a regex to make your selectors more resilient to content tweaks and changes.
