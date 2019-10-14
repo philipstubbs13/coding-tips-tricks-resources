@@ -72,3 +72,7 @@
 * query* functions will return the element or null if it cannot be found
 * get* functions will return the element or throw an error if it cannot be found
 * the queries can accept a regex to make your selectors more resilient to content tweaks and changes.
+
+## Write Integration Tests in React
+
+* <https://www.youtube.com/watch?v=is83bEK3n5A>
