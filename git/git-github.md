@@ -1,5 +1,6 @@
 # Git
 
+* <http://marklodato.github.io/visual-git-guide/index-en.html>
 * Excellent overview of git: <http://www.tricksofthetrades.net/2015/08/18/notes-git-version-control/>
 * Diffing between working tree and other commits: <http://365git.tumblr.com/post/3464927214/getting-a-diff-between-the-working-tree-and-other>
 * Gitflow: <http://nvie.com/posts/a-successful-git-branching-model/>
@@ -44,3 +45,21 @@
 
 * Free Course: https://www.codeschool.com/courses/try-git
 * http://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/11-06-2017-St-Paul-Class-Repository-FSF/tree/master/02-lesson-plans/part-time/01-Week/02-Day/Supplemental/GitHub-Help
+
+
+* For Windows users - if you are copying and pasting the file path into git bash - instead of changing the back slashes to forward slashes, you can simply put the file path inside single quotes
+
+1. If you git stash and still encounter issues, you have a few options:
+
+  run
+
+  ```bash
+  git checkout -- file1.ipynb file2.ipynb file3.py ...
+  ```
+
+  (change it to be the filenames git flagged & no ...). This will remove local changes, so only do this if you’re okay removing your changes to files
+
+2. Similarly, you can do a git reset --hard HEAD. Like (1), this will remove your changes.
+
+3. Clone the repo to a new folder. You’ll now have multiple copies... but at least you can keep both your files and the latest from the repo.
+A Stack Overflow answer here that might help is <https://stackoverflow.com/questions/3207029/git-unmerged-path-issue/11095107>
